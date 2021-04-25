@@ -13,3 +13,8 @@ Upcoming Features:
 * Passing the file name as argument.
 * Grouping subdomains based on Response Status Code.
 * Optimizing Execution time
+
+Version 1.1:
+
+Added Features:
+* Grouping subdomains based on Response Status Code.
